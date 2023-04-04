@@ -35,6 +35,7 @@
 
 /* Begin PBXFileReference section */
 		7B1EDE3329D64C4800CEDC5E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		7B1EDE3429DC8EC300CEDC5E /* LICENSE.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 		7B35D90029D29169005F8ED8 /* StayAwake.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StayAwake.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B35D90329D29169005F8ED8 /* StayAwakeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StayAwakeApp.swift; sourceTree = "<group>"; };
 		7B35D90529D29169005F8ED8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -76,6 +77,7 @@
 		7B35D8F729D29169005F8ED8 = {
 			isa = PBXGroup;
 			children = (
+				7B1EDE3429DC8EC300CEDC5E /* LICENSE.txt */,
 				7B1EDE3329D64C4800CEDC5E /* README.md */,
 				7B35D90229D29169005F8ED8 /* StayAwake */,
 				7B35D91429D2916C005F8ED8 /* StayAwakeTests */,
